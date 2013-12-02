@@ -1,6 +1,3 @@
-@USERNAME' life
-===============
-
 - 11/11/1993 Born
 - 06/2006-08/2011 First Job
 - 18/03/2007 First Facebook Wall Post
