@@ -2,7 +2,7 @@
 - 06/2006-08/2011 First Job
 - 18/03/2007 First Facebook Wall Post
 - 09/1997-07/2007 Elementary School at Notre Dame	
-- 09/2007-07/2011 Highschool at Patrick Fogarty
+- 09/2007-07/2011 High School at Patrick Fogarty
 - 09/2011-~ University of Waterloo for Computer Engineering
 - 01/2012-04/2012 First Coop job at Rogers
 - 09/2012-12/2012 Coop job at Radialpoint
